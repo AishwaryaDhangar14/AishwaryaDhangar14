@@ -27,7 +27,7 @@
 **Tech Stack:** ASP.NET, C#, HTML, CSS, JavaScript, jQuery, SQL Server, Bootstrap  
 
 - Developed a **personal productivity web app** as a smart **Virtual Assistant for students**  
-- Features: AI-powered Q&A chat, to-do list, smart reminders, focus timer, schedule management, voice input/output  
+- Features: AI-powered Q&A chat, to-do list, notes, assignments, smart reminders, focus timer, schedule management, voice input/output  
 - Backend: **ASP.NET MVC & SQL Server** ensuring secure & reliable data storage  
 
 ---
